@@ -1,45 +1,37 @@
 ---
 title: "Values"
 image: /img/about-jumbotron.jpg
-values:
-  - heading: "Shade-grown coffee"
+sectors:
+  - heading: "Renewables"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Working across the sector with an extensive knowledge of wind and solar energy, discover how we can work with you to create a greener future.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Built Environment"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      From the initial concept to detailed design, we can guide you through the whole project with our insights and experience.
+    imageUrl: "/img/about-shade-grown.jpg"
+  - heading: "Oil & Gas"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Over 30 years of experience in onshore and offshore projects, find out how we can assist your company.
+    imageUrl: "/img/about-shade-grown.jpg"
+services:
+  - heading: "Project Management"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      At JA Professional Services we make it our priority to deliver your project to your specific requirements on time and to budget.
+    imageUrl: "/img/about-shade-grown.jpg"
+  - heading: "Technical Studies"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
----
+      With a broad portfolio of project experience to draw upon, we provide extensive independent technical services.
+    imageUrl: "/img/about-shade-grown.jpg"
+  - heading: "Operation & Maintenance"
+    text: >
+      Working across a project's lifecycle, we help maximise your asset's potential using bespoke systems and expertise.
+    imageUrl: "/img/about-shade-grown.jpg"
+  - heading: "Cost & Market Analysis"
+    text: >
+      We can provide detailed financial assessments and analytical insights to give your company a competetive edge.
+    imageUrl: "/img/about-shade-grown.jpg"
+  - heading: "Data Science & Modelling"
+    text: >
+      Using cutting edge machine learning techniques and algorithms, our experts make sense out of your big data.
+    imageUrl: "/img/about-shade-grown.jpg"

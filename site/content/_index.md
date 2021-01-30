@@ -6,7 +6,7 @@ subtitle: JA Professional Services are an independent consultancy specialising
 image: img/energy_cover.png
 blurb:
   heading: About Us
-  text: *** Add about-use blurb here ***
+  text: Add about-use blurb here
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -15,5 +15,5 @@ intro:
     knowledge to anyone.
 expertise:
   heading: Our Expertise
-  text: *** Add expertise blurb here ***
+  text: Add expertise blurb here
 ---

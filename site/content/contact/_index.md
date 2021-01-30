@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/mail-icon.svg
+image: img/mail-icon.svg
 contact_entries:
   - heading: Location
     text: 20-22 Wenlock Road, London, England, N1 7GU

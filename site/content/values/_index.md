@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "Expertise"
 image: /img/about-jumbotron.jpg
 sectors:
   - heading: "Renewables"
@@ -35,3 +35,4 @@ services:
     text: >
       Using cutting edge machine learning techniques and algorithms, our experts make sense out of your big data.
     imageUrl: "/img/about-shade-grown.jpg"
+---

@@ -1,12 +1,9 @@
 ---
 title: Contact
-logo: img/water_grey.jpg
+logo: img/mail-icon.svg
 contact_entries:
   - heading: Location
-    text: |-
-      20-22 Wenlock Road, 
-      London, England, 
-      N1 7GU
+    text: 20-22 Wenlock Road, \nLondon, England, \nN1 7GU
   - heading: Phone
     text: +44 (0) 203 217 4491
 ---

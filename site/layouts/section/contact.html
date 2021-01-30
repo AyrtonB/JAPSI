@@ -7,7 +7,13 @@
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
+		<br>
+
+		{{ partial "contact-form" . }}
+
+		<br>
+
+		<div class="mb3">
 	        	{{ range .Params.contact_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
@@ -16,10 +22,6 @@
 				<br>
 			{{ end }}
 		</div>
-
-		<br>
-
-		{{ partial "contact-form" . }}
 
 	</div>
 </div>

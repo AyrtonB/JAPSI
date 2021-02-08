@@ -12,11 +12,17 @@ about:
     renewables for over ten years and before that was involved in the wider
     energy industry for in excess of a further twenty years.
 
+    <br>
+
 
     In 2010 we were invited to provide consultancy services in the early stages of what was to become the world’s largest wind farm, something that we continue to be involved with during the operations & maintenance phase.
 
+    <br>
+
 
     In that time we have also provided services to other wind farms operators and shareholders, ranging from early stage planning through to O&M support.
+
+    <br>
 
 
     As the renewables industry has expanded and in particular the offshore wind industry has developed worldwide, we have become involved in multinational projects for international clients.
@@ -25,6 +31,8 @@ recruitment:
   heading: Recruitment
   text: >
     JA Professional Services International are always looking for experienced individuals who are interested in being involved in the renewables industry. If you would like to join the JAPSI team and have expertise in the following areas, please select the “contact” button below.
+
+    <br>
 
     Project team professionals, including engineers, project services, offshore representatives, package managers and contract engineers and administrators.
 

@@ -5,7 +5,7 @@ subtitle: JA Professional Services are an independent consultancy specialising
   of industry experience
 image: img/energy_cover.png
 
-blurb:
+about:
   heading: About Us
   text: >
     JA Professional Services has been providing consultancy services to

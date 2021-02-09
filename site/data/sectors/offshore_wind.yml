@@ -1,12 +1,21 @@
-heading: 'Offshore Wind'
+heading: Offshore Wind
 id: offshore-wind
 priority: 4
-description: |
-  We have a wealth of experience within the offshore wind sector having been involved from the early days of offshore wind and with some of the world’s largest wind farms. Initially with fixed installation projects and more recently floating deepwater structures.
+img: /img/sectors/monopile.jpeg
+description: >-
+  We have a wealth of experience within the offshore wind sector having been
+  involved from the early days of offshore wind and with some of the world’s
+  largest wind farms. Initially with fixed installation projects and more
+  recently floating deepwater structures.
+
 
   Our work involves interfacing with Operator Shareholders, OFTO’s, Contractors and Manufacturers, together with numerous specialist consultants such as Marine Warranty, and also Consenting bodies such as the MMO.
-img:
-  /img/sectors/about-single-origin.jpg
-competencies:
-  - Project and Package Management (Inter-Array Cable,  Export Cable,  Survey) 
-  - Contract strategy development and consulting
+
+
+  Our competences include:
+
+
+  * Project and Package Management (Inter-Array Cable,  Export Cable,  Survey)
+
+  * Contract strategy development and consulting
+competencies: []

@@ -15,6 +15,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "sectors_services" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Sectors & Services" # Used in the UI, ie.: "New Post"
+    folder: "site/data/sectors" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Heading", name: "heading", widget: "string"}
+      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Priority", name: "priority", widget: "integer"}
+      - {label: "Image", name: "img", widget: "image", required: true}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Competencies", name: "competencies", widget: "list", required: false}
   - name: "pages"
     label: "Pages"
     files:

@@ -27,7 +27,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: "About Us", name: about, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text_p1", widget: "text_p1"},
+              {label: "Text", name: "text_p2", widget: "text_p2"},
+              {label: "Text", name: "text_p3", widget: "text_p3"},
+              {label: "Text", name: "text_p4", widget: "text_p4"},
+            ]}
           - {label: "Recruitment", name: recruitment, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}

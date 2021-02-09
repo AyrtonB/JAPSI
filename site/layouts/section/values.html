@@ -17,33 +17,13 @@
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := sort $.Site.Data.sectors "priority" "asc" }}
-    <div id="{{ .id }}" class="project list-item">
-      <h5 class="title">{{ .title }}</h5>
-
-      <div class="img-container">
-        <a target="_blank">
-          <img src="/img/sectors/{{ .img }}" />
-        </a>
-      </div>
-
-      <div>
-        <p class="mb0">{{ .description | markdownify }}</p>
-      </div>
-
-      <!-- Should include an if statement around this - https://gohugo.io/templates/introduction/#parentheses-can-be-used-to-group-items-together -->
-      <div>
-        <p>Our competences include:</p>
-        <ul class="links-list">
-          {{ range .competencies }}
-          <li>
-            <p>{{ . }}</p>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-  </div>
+    {{ if modBool $index 2 }}
+      {{ partial "sectors" $element }}
+    {{ else }}
+      {{ partial "sectors-reverse" $element }}
+    {{ end }}
   {{ end }}
+
 </div>
 
 <div class="mw7 center ph3 pt4">

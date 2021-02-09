@@ -1,12 +1,21 @@
 <div class="flex-m mhn3-m mb4">
 
   <div class="ph3-m w-50-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+    <img src="/img/sectors/{{ .img }}" alt="" class="db mb2">
   </div>
 
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    <p>{{ .description | markdownify }}</p>
+    <br>
+    <p>Our competences include:</p>
+    <ul class="links-list">
+      {{ range .competencies }}
+      <li>
+        <p>{{ . }}</p>
+      </li>
+      {{ end }}
+    </ul>
   </div>
 
 </div>

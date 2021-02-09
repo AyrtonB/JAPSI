@@ -7,24 +7,15 @@ image: img/energy_cover.png
 
 about:
   heading: About Us
-  text: >
+  text_p1: >
     JA Professional Services has been providing consultancy services to
     renewables for over ten years and before that was involved in the wider
     energy industry for in excess of a further twenty years.
-
-    <br>
-
-
+  text_p2: >
     In 2010 we were invited to provide consultancy services in the early stages of what was to become the world’s largest wind farm, something that we continue to be involved with during the operations & maintenance phase.
-
-    <br>
-
-
+  text_p3: >
     In that time we have also provided services to other wind farms operators and shareholders, ranging from early stage planning through to O&M support.
-
-    <br>
-
-
+  text_p4: >
     As the renewables industry has expanded and in particular the offshore wind industry has developed worldwide, we have become involved in multinational projects for international clients.
 
 recruitment:

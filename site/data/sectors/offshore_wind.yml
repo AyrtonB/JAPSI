@@ -1,4 +1,4 @@
-title: 'Offshore Wind'
+heading: 'Offshore Wind'
 id: offshore-wind
 priority: 4
 description: |
@@ -6,7 +6,7 @@ description: |
 
   Our work involves interfacing with Operator Shareholders, OFTO’s, Contractors and Manufacturers, together with numerous specialist consultants such as Marine Warranty, and also Consenting bodies such as the MMO.
 img:
-  about-single-origin.jpg
+  /img/sectors/about-single-origin.jpg
 competencies:
   - Project and Package Management (Inter-Array Cable,  Export Cable,  Survey) 
   - Contract strategy development and consulting

@@ -1,6 +1,6 @@
 ---
 title: "Expertise"
-image: /img/about-jumbotron.jpg
+image: /img/Foundations Harwich.jpeg
 sectors:
   - heading: "Renewables"
     text: >

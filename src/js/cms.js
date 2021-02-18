@@ -5,11 +5,11 @@ import CMS from "netlify-cms-app";
 import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
 
 import HomePreview from "./cms-preview-templates/home";
-import ExpertisePreview from "./cms-preview-templates/expertise";
+import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
-CMS.registerPreviewTemplate("expertise", ExpertisePreview);
+CMS.registerPreviewTemplate("expertise", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();

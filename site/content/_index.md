@@ -29,13 +29,14 @@ recruitment:
 
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  text: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 expertise:
   heading: Our Expertise
-  text: Add expertise blurb here
+  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, "
 products: []
 values:
   heading: Offshore Wind

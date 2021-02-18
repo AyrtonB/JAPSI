@@ -95,8 +95,8 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: "Values",
-              name: "values",
+              label: "Expertise",
+              name: "expertise",
               widget: "object",
               fields:
                 [
@@ -226,9 +226,9 @@ collections: # A list of collections the CMS should be able to edit
                   },
                 ],
             }
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
+      - file: "site/content/expertise/_index.md"
+        label: "Expertise Page"
+        name: "expertise"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }

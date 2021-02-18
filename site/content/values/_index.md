@@ -1,6 +1,6 @@
 ---
 title: "Expertise"
-image: /img/Foundations Harwich.jpeg
+image: /img/foundations_harwich.jpeg
 sectors:
   - heading: "Renewables"
     text: >

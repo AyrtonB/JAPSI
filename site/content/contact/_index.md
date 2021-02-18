@@ -1,6 +1,6 @@
 ---
 title: Contact
-image: /img/water_grey.jpg
+image: /img/contact.jpeg
 contact_entries:
   - heading: Location
     text: 20-22 Wenlock Road, London, England, N1 7GU

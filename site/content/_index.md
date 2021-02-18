@@ -20,32 +20,12 @@ about:
 
 recruitment:
   heading: Recruitment
-  text: >
+  text_p1: >
     JA Professional Services International are always looking for experienced individuals who are interested in being involved in the renewables industry. If you would like to join the JAPSI team and have expertise in the following areas, please select the “contact” button below.
-
-    <br>
-
+  text_p2: >
     Project team professionals, including engineers, project services, offshore representatives, package managers and contract engineers and administrators.
 
-intro:
-  heading: What we offer
-  text: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
 expertise:
   heading: Our Expertise
-  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, "
-products: []
-values:
-  heading: Offshore Wind
-  text: >
-    We have a wealth of experience within the offshore wind sector having been
-    involved from the early days of offshore wind and with some of the world’s
-    largest wind farms. Initially with fixed installation projects and more
-    recently floating deepwater structures.
-
-
-    Our work involves interfacing with Operator Shareholders, OFTO’s, Contractors and Manufacturers, together with numerous specialist consultants such as Marine Warranty, and also Consenting bodies such as the MMO.
+  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, sub-sea cabling, and the built-environment."
 ---

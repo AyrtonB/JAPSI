@@ -4,9 +4,11 @@
 
 {{ partial "about" .Params.about}}
 
+{{ partial "text-and-image" (dict "heading" .Params.expertise.heading "text" .Params.expertise.text "buttonText" "Read more" "buttonLink" "/expertise") }}
+
 {{ partial "short-text" .Params.recruitment}}
 
-{{ partial "text-and-image" (dict "heading" .Params.expertise.heading "text" .Params.expertise.text "buttonText" "Read more" "buttonLink" "/expertise") }}
+{{ partial "contact-form" . }}
 
 {{ partial "blog" . }}
 

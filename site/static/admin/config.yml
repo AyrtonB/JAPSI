@@ -91,14 +91,29 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/expertise/_index.md"
-        label: "Expertise Page"
-        name: "expertise"
+      - file: "site/content/sectors/_index.md"
+        label: "Sectors Page"
+        name: "sectors"
         fields:
           - { label: Title, name: title, widget: string }
+          - { label: Text, name: text, widget: string }
           - { label: Image, name: image, widget: image }
           - label: sectors
             name: sectors
+            widget: list
+            fields:
+              - { label: Heading, name: heading, widget: string }
+              - { label: Text, name: text, widget: text }
+              - { label: Image, name: img, widget: image }
+      - file: "site/content/services/_index.md"
+        label: "Services Page"
+        name: "services"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Text, name: text, widget: string }
+          - { label: Image, name: image, widget: image }
+          - label: services
+            name: services
             widget: list
             fields:
               - { label: Heading, name: heading, widget: string }

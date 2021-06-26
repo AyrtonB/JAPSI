@@ -4,7 +4,9 @@
 
 {{ partial "about" .Params.about}}
 
-{{ partial "text-and-image" (dict "heading" .Params.expertise.heading "text" .Params.expertise.text "buttonText" "Read more" "buttonLink" "/expertise") }}
+{{ partial "text-and-image-reverse" (dict "heading" .Params.sectors.heading "text" .Params.sectors.text "image" .Params.services.image "buttonText" "Read more" "buttonLink" "/sectors") }}
+
+{{ partial "text-and-image" (dict "heading" .Params.services.heading "text" .Params.services.text "image" .Params.services.image "buttonText" "Read more" "buttonLink" "/services") }}
 
 {{ partial "recruitment" .Params.recruitment}}
 

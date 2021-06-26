@@ -4,22 +4,23 @@
 
 <div class="mw7 center ph3 pt4">
 
-  <h2 class="f2 b lh-title mb2 w-40-l">Sectors</h2>
+  <div>
+    <h2 class="f2 b lh-title mb2 w-40-l">Services</h2>
+    <br>
+    {{ .Params.text }}
+  </div>
+
   <br>
 
-  {{ range $index, $element := sort $.Site.Data.sectors "priority" "asc" }}
-    {{ if modBool $index 2 }}
-      {{ partial "sectors" $element }}
-    {{ else }}
-      {{ partial "sectors-reverse" $element }}
+  <div>
+    <ul>
+    {{ range $i, $service :=  sort $.Site.Data.services "priority" "asc" }}
+      <li><a href="/services/#{{ $service.id }}">{{ $service.heading }}</a></li>
     {{ end }}
-  {{ end }}
+    </ul>
+  </div>
 
-</div>
-
-<div class="mw7 center ph3 pt4">
-
-  <h2 class="f2 b lh-title mb2 w-40-l">Services</h2>
+  <br>
   <br>
 
   {{ range $index, $element := sort $.Site.Data.services "priority" "asc" }}

@@ -25,7 +25,13 @@ recruitment:
   text_p2: >
     Project team professionals, including engineers, project services, offshore representatives, package managers and contract engineers and administrators.
 
-expertise:
-  heading: Our Expertise
+sectors:
+  heading: Our Sectors
+  image: img/substation_bathy.png
+  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, sub-sea cabling, and the built-environment."
+
+services:
+  heading: Our Services
+  image: img/substation_bathy.png
   text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, sub-sea cabling, and the built-environment."
 ---

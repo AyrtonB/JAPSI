@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+
+  <div>
+    <h2 class="f2 b lh-title mb2 w-40-l">Sectors</h2>
+    <br>
+    {{ .Params.text }}
+  </div>
+
+  <br>
+
+  <div>
+    <ul>
+    {{ range $i, $sector :=  sort $.Site.Data.sectors "priority" "asc" }}
+      <li><a href="/sectors/#{{ $sector.id }}">{{ $sector.heading }}</a></li>
+    {{ end }}
+    </ul>
+  </div>
+
+  <br>
+  <br>
+
+  {{ range $index, $element := sort $.Site.Data.sectors "priority" "asc" }}
+    {{ if modBool $index 2 }}
+      {{ partial "sectors" $element }}
+    {{ else }}
+      {{ partial "sectors-reverse" $element }}
+    {{ end }}
+  {{ end }}
+
+</div>
+
+{{ end }}

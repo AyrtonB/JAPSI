@@ -40,6 +40,14 @@
   background-color: var(--primary);
 }
 
+.bg-transparent-black {
+  /* background-color: var(--transparent-black); */
+  box-shadow: 0 0 0 10px rgba(141, 141, 141, 0.6);
+  background-color: rgba(141, 141, 141, 0.6);
+  box-decoration-break: clone;
+  line-height: 1.37;
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
@@ -75,6 +83,7 @@
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
-    box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+    box-shadow: var(--spacing-small) 0 0 var(--primary),
+      -var(--spacing-small) 0 0 var(--primary);
   }
 }

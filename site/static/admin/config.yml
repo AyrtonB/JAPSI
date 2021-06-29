@@ -47,10 +47,7 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 [
                   { label: "Heading", name: "heading", widget: string },
-                  { label: "Text", name: "text_p1", widget: "text" },
-                  { label: "Text", name: "text_p2", widget: "text" },
-                  { label: "Text", name: "text_p3", widget: "text" },
-                  { label: "Text", name: "text_p4", widget: "text" },
+                  { label: "Text", name: "text", widget: "text" },
                 ],
             }
           - {
@@ -70,8 +67,7 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 [
                   { label: "Heading", name: "heading", widget: string },
-                  { label: "Text", name: "text_p1", widget: "text" },
-                  { label: "Text", name: "text_p2", widget: "text" },
+                  { label: "Text", name: "text", widget: "text" },
                 ],
             }
       - file: "site/content/contact/_index.md"
@@ -104,7 +100,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Heading, name: heading, widget: string }
               - { label: Text, name: text, widget: text }
-              - { label: Image, name: img, widget: image }
+              - { label: Image1, name: img1, widget: image }
+              - { label: Image2, name: img2, widget: image }
       - file: "site/content/services/_index.md"
         label: "Services Page"
         name: "services"
@@ -118,4 +115,5 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: Heading, name: heading, widget: string }
               - { label: Text, name: text, widget: text }
-              - { label: Image, name: img, widget: image }
+              - { label: Image1, name: img1, widget: image }
+              - { label: Image2, name: img2, widget: image }

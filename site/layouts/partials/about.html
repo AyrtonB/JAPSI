@@ -3,22 +3,8 @@
     <h2 class="f2 b lh-title mb2 w-40-l">{{ .heading }}</h2>
     <div class="w-60-l mb0">
     	<p>
-    		{{ .text_p1 }}
+			{{ .text | markdownify }}
     	</p>
-    	<p>
-    		{{ .text_p2 }}
-    	</p>
-    	<p>
-    		{{ .text_p3 }}
-    	</p>
-    	<p>
-    		{{ .text_p4 }}
-    	</p>
-    	{{ if .text_p5 }}
-	    	<p>
-	    		{{ .text_p5 }}
-	    	</p>
-    	{{ end }}
 	</div>
   </div>
 </div>

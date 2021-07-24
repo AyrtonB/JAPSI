@@ -8,8 +8,8 @@ about:
   heading: About Us
   text: >-
     JA Professional Services has been providing consultancy services to the
-    energy industry for over 30 years, with the last 10 mainly focused on the
-    renewable sector  
+    energy industry for over 30 years, with the last 10 focused on the renewable
+    sector  
 
 
     In 2010 we were invited to provide consultancy services in the early stages of what was to become the world’s largest wind farm, something that we continue to be involved with during the operations & maintenance phase.
@@ -22,13 +22,18 @@ about:
 sectors:
   heading: Our Sectors
   image: img/nicholas-doherty-ponbhdyofom-unsplash-2-large.jpg
-  text: "JAPSI has deep expertise across several sectors and services, including:
-    offshore wind, sub-sea cabling, and the built-environment."
+  text: "JAPSI has deep renewables expertise, including: offshore wind, sub-sea
+    cabling, and the built-environment."
 services:
   heading: Our Services
   image: img/expertise_bkgd.jpg
-  text: "JAPSI has deep expertise across several sectors and services, including:
-    offshore wind, sub-sea cabling, and the built-environment."
+  text: >
+    JAPSI services, range from conceptual design, detailed engineering and
+    construction, into commissioning, operations and maintenance and life
+    extension. 
+
+
+    We work with operators, shareholders and contractors.
 recruitment:
   heading: Recruitment
   text: >-

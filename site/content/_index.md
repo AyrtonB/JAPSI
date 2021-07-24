@@ -4,7 +4,6 @@ subtitle: JA Professional Services are an independent consultancy specialising
   in energy across the renewable and oil & gas sectors, bringing over 30 years
   of industry experience
 image: img/energy_cover.png
-
 about:
   heading: About Us
   text: >-
@@ -20,22 +19,24 @@ about:
 
 
     As the renewables industry has expanded and in particular the offshore wind industry has developed worldwide, we have become involved in multinational projects for international clients.
-
+sectors:
+  heading: Our Sectors
+  image: img/nicholas-doherty-ponbhdyofom-unsplash-2-large.jpg
+  text: "JAPSI has deep expertise across several sectors and services, including:
+    offshore wind, sub-sea cabling, and the built-environment."
+services:
+  heading: Our Services
+  image: img/expertise_bkgd.jpg
+  text: "JAPSI has deep expertise across several sectors and services, including:
+    offshore wind, sub-sea cabling, and the built-environment."
 recruitment:
   heading: Recruitment
   text: >-
-    JA Professional Services International are always looking for experienced individuals who are interested in being involved in the renewables industry. If you would like to join the JAPSI team and have expertise in the following areas, please select the “contact” button below.
+    JA Professional Services International are always looking for experienced
+    individuals who are interested in being involved in the renewables industry.
+    If you would like to join the JAPSI team and have expertise in the following
+    areas, please select the “contact” button below.
 
 
     Project team professionals, including engineers, project services, offshore representatives, package managers and contract engineers and administrators.
-
-sectors:
-  heading: Our Sectors
-  image: img/substation_bathy.png
-  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, sub-sea cabling, and the built-environment."
-
-services:
-  heading: Our Services
-  image: img/substation_bathy.png
-  text: "JAPSI has deep expertise across several sectors and services, including: offshore wind, sub-sea cabling, and the built-environment."
 ---

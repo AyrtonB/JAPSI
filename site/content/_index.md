@@ -23,17 +23,17 @@ sectors:
   heading: Our Sectors
   image: img/nicholas-doherty-ponbhdyofom-unsplash-2-large.jpg
   text: "JAPSI has deep renewables expertise, including: offshore wind, sub-sea
-    cabling, and the built-environment."
+    cabling, and the built-environment"
 services:
   heading: Our Services
   image: img/expertise_bkgd.jpg
   text: >
     JAPSI services, range from conceptual design, detailed engineering and
     construction, into commissioning, operations and maintenance and life
-    extension. 
+    extension
 
 
-    We work with operators, shareholders and contractors.
+    We work with operators, shareholders and contractors
 recruitment:
   heading: Recruitment
   text: >-

@@ -21,9 +21,9 @@ about:
     As the renewables industry has expanded and in particular the offshore wind industry has developed worldwide, we have become involved in multinational projects for international clients.
 sectors:
   heading: Our Sectors
-  image: img/nicholas-doherty-ponbhdyofom-unsplash-2-large.jpg
+  image: img/blade-and-crane.jpg
   text: "JAPSI has deep renewables expertise, including: offshore wind, sub-sea
-    cabling, and the built-environment"
+    cabling, and the built-environment."
 services:
   heading: Our Services
   image: img/expertise_bkgd.jpg

@@ -26,7 +26,7 @@ sectors:
     cabling, and the built-environment."
 services:
   heading: Our Services
-  image: img/dev-kalidhasan-xrvapofseko-unsplash-large.jpeg
+  image: img/foundations-and-tp-s.jpg
   text: >
     JAPSI services, range from conceptual design, detailed engineering and
     construction, into commissioning, operations and maintenance and life

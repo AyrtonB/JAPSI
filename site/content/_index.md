@@ -1,8 +1,8 @@
 ---
 title: Independent. Experienced. Professional.
 subtitle: JA Professional Services are an independent consultancy specialising
-  in energy across the renewable and oil & gas sectors, bringing over 30 years
-  of industry experience
+  in all sectors of renewable energy, bringing over 30 years of industry
+  experience
 image: img/energy_cover.png
 about:
   heading: About Us

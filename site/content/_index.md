@@ -22,7 +22,7 @@ about:
 sectors:
   heading: Our Sectors
   image: img/blade-and-crane.jpg
-  text: "JAPSI has deep renewables expertise, including: offshore wind, sub-sea
+  text: "JAPSI has deep renewables expertise, including: offshore wind, subsea
     cabling, and the built-environment."
 services:
   heading: Our Services

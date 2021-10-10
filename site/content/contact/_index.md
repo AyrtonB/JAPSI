@@ -9,4 +9,4 @@ contact_entries:
   - heading: Email
     text: info@japrofessionalservices.com
 ---
-Please get in touch to find out more about the areas we work in and how we can deliver value to your business, we look forward to speaking with you.
+Please get in touch to find out more about the areas we work in and how we can deliver value to your business. We look forward to speaking with you.

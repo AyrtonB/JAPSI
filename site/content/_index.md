@@ -8,7 +8,7 @@ about:
   text: >-
     JA Professional Services has been providing consultancy services to the
     energy industry for over 30 years, with the last 10 focused on the renewable
-    sector  
+    sector.  
 
 
     In 2010 we were invited to provide consultancy services in the early stages of what was to become the world’s largest wind farm, something that we continue to be involved with during the Operations & Maintenance phase.

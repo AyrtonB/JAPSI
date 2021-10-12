@@ -27,8 +27,9 @@ services:
   heading: Our Services
   image: img/foundations-and-tp-s.jpg
   text: >
-    JAPSI services range from conceptual design, detailed engineering and
-    construction, to commissioning, operations & maintenance and life extension
+    JAPSI services, range from conceptual design, detailed engineering and
+    construction, into commissioning, operations & maintenance and life
+    extension.
 
 
     We work with operators, shareholders and contractors

@@ -1,8 +1,6 @@
 ---
 title: "Sectors"
 image: /img/expertise_bkgd-bw.jpg
-text: >
-  Lead text about sectors
 sectors:
   - heading: "Renewables"
     text: >

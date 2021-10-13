@@ -1,8 +1,6 @@
 ---
 title: "Services"
 image: /img/expertise_bkgd-bw.jpg
-text: >
-  Lead text about services
 services:
   - heading: "Project Management"
     text: >
